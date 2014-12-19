@@ -1,0 +1,7 @@
+# ignore project files
+*.exe
+*.fla
+*.p12
+*.swf
+*.xml
+*.txt
