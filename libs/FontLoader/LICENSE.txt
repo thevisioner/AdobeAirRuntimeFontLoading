@@ -1,0 +1,9 @@
+FontLoader 2.3 by Denis Kolyako. June 13, 2008. Last update: February 03, 2014.
+Visit http://etcs.ru for documentation, updates and more free code.
+
+You may distribute this class freely, provided it is not modified in any way
+(including removing this header or changing the package path).
+
+Please contact etc[at]mail.ru prior to distributing modified versions of this class.
+
+Source https://github.com/as3-community/runtime-font-loader-as3
